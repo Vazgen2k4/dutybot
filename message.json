@@ -1,0 +1,21 @@
+{
+    "message_id": 16,
+    "from": {
+      "id": 389495959,
+      "is_bot": false,
+      "first_name": "Вазген",
+      "last_name": "Арутюнян",
+      "username": "OverLord2k4",
+      "language_code": "ru"
+    },
+    "chat": {
+      "id": 389495959,
+      "first_name": "Вазген",
+      "last_name": "Арутюнян",
+      "username": "OverLord2k4",
+      "type": "private"
+    },
+    "date": 1675308270,
+    "text": "/help",
+    "entities": [ { "offset": 0, "length": 5, "type": "bot_command" } ]
+  }
